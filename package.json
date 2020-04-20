@@ -1,0 +1,21 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "JAVA Clock",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index,js",
+    "dev:watch": "nodemon index,js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "bot"
+  ],
+  "author": "Cezik",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
